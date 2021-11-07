@@ -1,0 +1,64 @@
+body{
+    background-image: url('../finalbg.jpg');
+    
+}
+.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 1px;
+    margin-top: 2px;
+}
+.sub-heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 6px;
+}
+
+.error-box{
+    border-color: red;
+    border-radius: 12px;
+    border-width: 2px;
+    margin: 4px;
+    padding: 8px;
+}
+
+
+.normal-box{
+    border-radius: 12px;
+    border-width: 2px;
+    margin: 4px;
+    padding: 8px;
+    border-color: blueviolet;
+
+}
+.password-box{
+    border-color: red;
+    border-radius: 4px;
+    border-width: 0.8px;
+    margin: 4px;
+    padding: 10px;
+}
+.form-box{
+    
+    background-clip: content-box;
+    border-radius: 1em;
+    background: rgb(125, 63, 206);
+    padding: 1em;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+button{
+    border-color: blueviolet;
+    border-radius: 6px;
+    border-width: 0.1.5px;
+    margin: 10px;
+    padding: 8px;
+    background-color: rgb(255, 214, 31);
+}
+button:hover{
+    cursor: pointer;
+}
+.signup-line{
+    font-size: small;
+}
+.signup-btn:hover{
+    cursor: pointer;
+}
